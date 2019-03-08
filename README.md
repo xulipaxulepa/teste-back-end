@@ -9,7 +9,7 @@ Desenvolver uma aplicação de Rastreamento de usuários
 - O link do repositório deverá ser enviado para o e-mail backend@icasei.com.br com o título **Teste Back-End Developer**
 
 ## Especificações tecnicas
-- Desenvolver uma aplicação usando Ruby on Rails que contenha uma lista de contatos. Deve obrigatoriamente conter o campo email e nome.
+- Desenvolver uma aplicação usando Ruby on Rails que contenha uma lista de contatos. Deve obrigatoriamente conter o campo **email** e **nome**.
 - Desenvolver uma biblioteca em JavaScript que quando incluída no site do cliente envie as seguintes informações para a sua aplicação:
   - Identificador único do visitante (GUID) (Usar cookies ou local storage) 
   - URL acessada
