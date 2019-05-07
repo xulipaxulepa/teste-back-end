@@ -1,20 +1,20 @@
-# Teste iCasei: Back-end
-Desenvolver uma aplicação de Rastreamento de usuários
+# ICasei: Back-end Test
+Develop an application to track down users
 
-## Instruções
-- Faça o Download ou o clone desse repositório no GitHub.
-- Acesse a pasta testebackend e inicie o terminal de comando no windows ou o terminal no linux.
-- Utilize o comando rails s para iniciar o servidor rails.
-- Acesse a url localhost:3000 para acessar o sistema.
-- Utilize o comando rake db:migrate para fazer a migration do banco de dados.
-- Junto do sistema há uma pasta com a sua documentação completa e como ele foi implementado.
+## Instructions
+- Download or clone this repository on GitHub.
+- Go to the folder testebackend and start windows command prompt or Linux terminal.
+- use the command rails s to start rails server.
+- Go to the url localhost:3000 and access the system.
+- Use rake db:migrate to migrate the database.
+- Along with the system there is a folder with the full documentation and how it was implemented.
 
-## O sistema
-- O sistema possui 3(três) páginas.
-- A pagina inicial do sistema, contem um slide com algumas imagens, três quadros com informações referentes a endereço, telefone e e-mail e por fim, dados referentes as redes sociais.
-- A pagina de contato posui um formulario com o nome e o email para serem preenchidos.
-- Por fim, a pagina de sobre tem uma visão geral sobre os noivos e a sua festa de casamento.
+## The system
+- The system has 3(three) pages.
+- The home page of the system, contains a slide with some images, three squares with information regarding address, phone and e-mail and at last, data regarding my social medias.
+- The contact page has a form with name and email to be filled.
+- At last, the about page has an overview about the wedding and it's party.
 
-## Não implementado:
-- O sistema de Cookies.
-- A biblioteca JS para rastrear os usuários do sistema.
+## Not Implemented:
+- Cookies.
+- The JS library to track the users on the system.
