@@ -1,0 +1,18 @@
+<!-- Signup Section -->
+<section id="signup" class="signup-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-10 col-lg-8 mx-auto text-center">
+
+        <i class="far fa-paper-plane fa-2x mb-2 text-white"></i>
+        <h2 class="text-white mb-5">Obrigado por confirmarem presença</h2>
+
+        <h2 style='color:white'><%= @cadastro.nome %></h2>
+        <h2 style='color:white'><%= @cadastro.email %></h2>
+
+          <hr>
+            <%= link_to "Home", home_path, :class => 'btn btn-default' %>
+      </div>
+    </div>
+  </div>
+</section>

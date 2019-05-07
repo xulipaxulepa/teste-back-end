@@ -3,4 +3,8 @@ Rails.application.routes.draw do
 
 root 'home_controller#index', as: 'home'
 
+get 'sobre' => 'sobre#about', as: 'sobre'
+
+resources :cadastros
+
 end
